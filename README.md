@@ -35,7 +35,7 @@ After Set SLA; How serious it is
 
 This means every hour contact them to see if they can get back in.
 
-Once you reach out to the customer and the Priority or SLA plan needs to change due to the importance , change them to the respective selection to route the issue appropriately
+Once you reach out to the customer and the Priority or SLA plan needs to change due to the importance, change them to the respective selection to route the issue appropriately
 
 ![image](https://github.com/user-attachments/assets/2e37305c-6295-4e60-bcbf-347054566260)
 
@@ -52,6 +52,8 @@ Then assign a team to take care of it By using the Assigned To:
 When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as a reference if a similar issue shows up in the future.
 
 ![image](https://github.com/user-attachments/assets/e1c3470e-a8df-493f-b0d6-d39e9b1d5ae7)
+
+The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
 
 
 
