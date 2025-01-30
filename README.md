@@ -23,3 +23,37 @@ Here we are using one of our end user info we created to create a ticket
 
 Now we will log in as A Help Desk agent named James. We will navigate to http://localhost/osTicket/scp/login.php and login and from there, We will observe the ticket's properties, by Priority/Department/SLA/and who it was assigned to. From the Tickets, we will navigate to open tickets. Navigate to priority and also the SLA plan, take a glance at the comments, and depending on the severity of the comments the user inputs, possibly you may want to reach out to the customer to actually gauge the issue.
 
+![image](https://github.com/user-attachments/assets/cdb2bff7-aae4-4918-a6de-379b2da7a91f)
+
+## First Suggestion: 
+
+Reach out to Users to find out if they are still having these issues, preferably on the phone to gauge the level of seriousness.
+
+![image](https://github.com/user-attachments/assets/c5c2a4cc-40a2-4566-8780-d89db32d3204)
+
+After Set SLA; How serious it is
+
+This means every hour contact them to see if they can get back in.
+
+Once you reach out to the customer and the Priority or SLA plan needs to change due to the importance , change them to the respective selection to route the issue appropriately
+
+![image](https://github.com/user-attachments/assets/2e37305c-6295-4e60-bcbf-347054566260)
+
+Then change the Help Topic based on your assessment after talking to the user
+
+![image](https://github.com/user-attachments/assets/1c489ab7-961f-490e-a3d2-6cc93f04a839)
+
+Then assign a team to take care of it By using the Assigned To:
+
+![image](https://github.com/user-attachments/assets/391f7ee3-3bab-410f-8f55-8e1b9c0ce3ee)
+
+![image](https://github.com/user-attachments/assets/cc48a133-2969-4890-9d99-f4fe156b3806)
+
+When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as a reference if a similar issue shows up in the future.
+
+![image](https://github.com/user-attachments/assets/e1c3470e-a8df-493f-b0d6-d39e9b1d5ae7)
+
+
+
+
+
